@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![Statistik GitHub Farhan](https://github-readme-stats.vercel.app/api?username=farhanAkbar91&show_icons=true&theme=radical)
+![Statistik](https://github-readme-stats.vercel.app/api?username=farhanAkbar91&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical)
+![Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical&cache_seconds=1800)
