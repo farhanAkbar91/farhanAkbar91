@@ -5,6 +5,8 @@
 - Applied Machine Learning (tabular & real-world datasets)
 - ML-powered applications with FastAPI & Streamlit
 
+<hr>
+
 ### 💻 Tech Stack
 
 **Languages**
@@ -30,6 +32,8 @@
 **Tools**
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<hr>
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=farhanAkbar91&theme=radical)
