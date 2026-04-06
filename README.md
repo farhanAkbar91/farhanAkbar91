@@ -15,11 +15,11 @@
 
 **Deep Learning & ML**
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![fast.ai](https://img.shields.io/badge/fast.ai-005571?style=flat-square&logo=fastai&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![fast.ai](https://img.shields.io/badge/fast.ai-005571?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 
 **Visualization**
 <br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
 **Deployment**
 <br>
