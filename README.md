@@ -35,5 +35,13 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=farhanAkbar91&theme=radical)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical&height=165" alt="Top Langs" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanAkbar91&theme=radical&height=165" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
