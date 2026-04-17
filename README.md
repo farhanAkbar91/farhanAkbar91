@@ -4,12 +4,18 @@
 
 ### 🚀 What I Build
 - End-to-end ML systems (data → model → API → app)
-- Applied Machine Learning (tabular & real-world datasets)
+- Applied Machine Learning on real-world datasets (tabular focus)
 - ML-powered applications with FastAPI & Streamlit
 
 <hr>
 
 ### 🌿 Fields of Interest
+**🧠Technical Interests**
+* **Data Science & ML:** Statistical modeling and predictive analytics.
+* **Specialized AI:** Natural Language Processing (NLP) and Computer Vision.
+* **Scientific Computing:** Mathematical modeling, simulation, and data-driven systems
+
+**🌍Personal Interests**
 * **Natural Sciences:** Mathematics, Physics, and Astronomy.
 * **Humanities:** Linguistics, Anthropology, and History.
 * **Languages (Focused):** <img src="https://flagcdn.com/w20/jp.png" width="20"> Japanese and <img src="https://flagcdn.com/w20/cn.png" width="20"> Mandarin.
