@@ -10,8 +10,8 @@
 ### 🌿 Fields of Interest
 * **Natural Sciences:** Mathematics, Physics, and Astronomy.
 * **Humanities:** Linguistics, Anthropology, and History.
-* **Languages (Focused):** 🇯🇵 Japanese and 🇨🇳 Mandarin.
-* **Languages (Exploring):** 🇪🇸 Spanish, 🇫🇷 French, and 🇮🇹 Italian.
+* **Languages (Focused):** <img src="https://flagcdn.com/w20/jp.png" width="20"> Japanese and <img src="https://flagcdn.com/w20/cn.png" width="20"> Mandarin.
+* **Languages (Exploring):** <img src="https://flagcdn.com/w20/es.png" width="20"> Spanish, <img src="https://flagcdn.com/w20/fr.png" width="20"> French, and <img src="https://flagcdn.com/w20/it.png" width="20"> Italian.
 
 <hr>
 
