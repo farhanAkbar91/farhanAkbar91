@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+*An Information Systems student who spends too much time inside Jupyter Notebooks. I build AI models by day and explore the laws of physics or ancient history by night. Just a human trying to understand the world through data and languages.
+
 ### 🚀 What I Build
 - End-to-end ML systems (data → model → API → app)
 - Applied Machine Learning (tabular & real-world datasets)
