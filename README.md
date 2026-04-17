@@ -7,6 +7,14 @@
 
 <hr>
 
+### 🌿 Fields of Interest
+* **Natural Sciences:** Mathematics, Physics, and Astronomy.
+* **Humanities:** Linguistics, Anthropology, and History.
+* **Languages (Focused):** 🇯🇵 Japanese and 🇨🇳 Mandarin.
+* **Languages (Exploring):** 🇪🇸 Spanish, 🇫🇷 French, and 🇮🇹 Italian.
+
+<hr>
+
 ### 💻 Tech Stack
 
 **Languages**
