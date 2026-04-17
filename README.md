@@ -23,7 +23,7 @@
 
 **Deployment**
 <br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-0E1117?style=flat-square&logo=streamlit)
 
 **Data**
 <br>
