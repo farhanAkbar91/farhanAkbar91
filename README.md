@@ -19,7 +19,7 @@
 * **Natural Sciences:** Mathematics, Physics, and Astronomy.
 * **Humanities:** Linguistics, Anthropology, and History.
 * **Languages (Focused):** <img src="https://flagcdn.com/w20/jp.png" width="20"> Japanese and <img src="https://flagcdn.com/w20/cn.png" width="20"> Mandarin.
-* **Languages (Exploring):** <img src="https://flagcdn.com/w20/es.png" width="20"> Spanish, <img src="https://flagcdn.com/w20/fr.png" width="20"> French, and <img src="https://flagcdn.com/w20/it.png" width="20"> Italian.
+* **Languages (Exploring):** <img src="https://flagcdn.com/w20/es.png" width="20"> Spanish and <img src="https://flagcdn.com/w20/de.png" width="20"> German.
 
 <hr>
 
