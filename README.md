@@ -1,62 +1,100 @@
-## Hi there 👋
+# Hi there 👋
 
-> ### An Information Systems student who spends too much time inside **Jupyter Notebooks** 📓. I build **AI models** by day 🤖 and explore the laws of **physics** or **ancient history** by night 🌌. Just a human trying to understand the world through **data** and **languages** 🌎.
+> ### An Information Systems student interested in **NLP, machine learning, and languages**.
+>
+> I build **ML systems** by day 🤖 and explore **physics, astronomy, linguistics, and ancient history** by night 🌌.
+> Just a human trying to understand the world through **data, computation, and languages** 🌎.
 
-### 🚀 What I Build
-- End-to-end ML systems (data → model → API → app)
-- Applied Machine Learning on real-world datasets (tabular focus)
-- ML-powered applications with FastAPI & Streamlit
+---
 
-<hr>
+## 🧠 What I Do
 
-### 🌿 Fields of Interest
-**🧠Technical Interests**
-* **Data Science & ML:** Statistical modeling and predictive analytics.
-* **Specialized AI:** Natural Language Processing (NLP) and Computer Vision.
-* **Scientific Computing:** Mathematical modeling, simulation, and data-driven systems
+* Build **end-to-end machine learning systems** — from data and modeling to API and deployment
+* Develop **NLP and machine learning applications** with Python
+* Experiment with **multilingual and low-resource NLP**
+* Work with real-world datasets for **statistical modeling and predictive analytics**
+* Turn ML experiments into usable applications with **FastAPI & Streamlit**
 
-**🌍Personal Interests**
-* **Natural Sciences:** Mathematics, Physics, and Astronomy.
-* **Humanities:** Linguistics, Anthropology, and History.
-* **Languages (Learning):** <img src="https://flagcdn.com/w20/jp.png" width="20"> Japanese and <img src="https://flagcdn.com/w20/cn.png" width="20"> Mandarin.
+---
 
-<hr>
+## 🌿 Fields of Interest
 
-### 💻 Tech Stack
+### 🤖 Technical Interests
 
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **Natural Language Processing** — multilingual NLP, low-resource languages, representation learning
+* **Machine Learning** — statistical modeling, predictive modeling, and deep learning
+* **Computer Vision** — image classification and visual representation learning
+* **ML Engineering** — model serving, APIs, and deploying ML applications
 
-**Deep Learning & ML**
-<br>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![fast.ai](https://img.shields.io/badge/fast.ai-005571?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+### 🌎 Personal Interests
 
-**Visualization**
-<br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+* **Natural Sciences** — Mathematics, Physics, and Astronomy
+* **Humanities** — Linguistics, Anthropology, and History
+* **Languages** — 🇯🇵 Japanese, 🇨🇳 Mandarin, 🇪🇸 Spanish, 🇫🇷 French, & 🇮🇹 Italian
 
-**Deployment**
-<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-0E1117?style=flat-square&logo=streamlit)
+---
 
-**Data**
-<br>
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 💻 Tech Stack
 
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🐍 Programming
 
-<hr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+### 🧠 Machine Learning & Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![fast.ai](https://img.shields.io/badge/fast.ai-005571?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas)
+
+### 📊 Data & Visualization
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+### 🚀 ML Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square\&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-0E1117?style=flat-square\&logo=streamlit)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square\&logo=latex\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🌏 Languages
+
+🇮🇩 **Indonesian** — Native
+🇬🇧 **English** — Advanced
+🇪🇸 **Spanish** — Intermediate (B1)
+🇫🇷 **French** — Intermediate (B1)
+🇮🇹 **Italian** — Intermediate (B1)
+🇯🇵 **Japanese** — Learning
+🇨🇳 **Mandarin Chinese** — Learning
+
+---
+
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical&height=165" alt="Top Langs" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=radical&height=165" alt="Top Languages" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanAkbar91&theme=radical&height=165" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanAkbar91&theme=radical&height=165" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+---
+
+> *“The world is full of interesting things. I just happen to be curious about too many of them.”* 🌌
