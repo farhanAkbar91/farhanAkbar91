@@ -42,11 +42,13 @@
 
 ### 🧠 Machine Learning & Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![fast.ai](https://img.shields.io/badge/fast.ai-005571?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensoFlow](https://img.shields.io/badge/TensorFlow-F78700?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-C90000?style=flat-square\&logo=keras\&logoColor=white)
+![fast.ai](https://img.shields.io/badge/fast.ai-005571?style=flat-square)
 
 ### 📊 Data & Visualization
 
@@ -65,7 +67,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square\&logo=latex\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=GitHub\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
 ---
