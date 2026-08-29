@@ -60,7 +60,7 @@
 ### 🌎 Personal & Academic Interests
 * **Natural Sciences** — Mathematics, Physics, and Astronomy 🌌
 * **Humanities** — Linguistics, Anthropology, and Ancient History 📜
-* **Polyglot Journey** — Learning multiple world languages to unlock cultural perspectives 🗣️
+* **Language Learning Enthusiast** — Exploring foreign languages as a passionate hobby 🗣️
 
 ---
 
@@ -117,7 +117,7 @@
 
 ---
 
-## 🌏 Spoken Languages
+## 🌏 Languages I Enjoy Learning & Speaking
 
 | Language | Proficiency Level | Visual |
 | :--- | :--- | :---: |
@@ -126,33 +126,32 @@
 | 🇪🇸 **Spanish** | Intermediate (B1) | `██████░░░░` 60% |
 | 🇫🇷 **French** | Intermediate (B1) | `██████░░░░` 60% |
 | 🇮🇹 **Italian** | Intermediate (B1) | `██████░░░░` 60% |
+| 🇵🇹 **Portuguese** | Intermediate (B1) | `██████░░░░` 60% |
+| 🇩🇪 **German** | Intermediate (B1) | `██████░░░░` 60% |
 | 🇯🇵 **Japanese** | Learning (A2) | `████░░░░░░` 40% |
-| 🇨🇳 **Mandarin Chinese** | Learning (A1/A2) | `███░░░░░░░` 30% |
 
 ---
 
 ## 📊 GitHub Analytics Hub
 
-<!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanAkbar91&theme=tokyonight&column=7&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanAkbar91&theme=tokyonight" alt="GitHub Profile Details" width="95%" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats & Streak Cards -->
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farhanAkbar91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=farhanAkbar91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanAkbar91&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=farhanAkbar91&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanAkbar91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
     </td>
   </tr>
 </table>
