@@ -146,7 +146,7 @@
       <img src="https://github-readme-stats-fast.vercel.app/api?username=farhanAkbar91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=farhanAkbar91&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.vercel.app/?user=farhanAkbar91&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
