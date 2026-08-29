@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Role-IS%20Student%20%2F%20Developer-success?style=flat-square" alt="Role" />
   </p>
 
-  <h3>🚀 Information Systems Student specialized in <b>Natural Language Processing & Machine Learning Systems</b></h3>
+  <h3>🚀 Information Systems Student focused on <b>Natural Language Processing & Machine Learning Systems</b></h3>
 
   <p>
     Building <b>multilingual & low-resource NLP systems</b> by day 🤖 and exploring <b>physics, astronomy, linguistics, and history</b> by night 🌌<br/>
