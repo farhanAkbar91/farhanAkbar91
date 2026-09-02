@@ -152,10 +152,8 @@
 | 🇬🇧 **English** | Advanced (C1) |
 | 🇪🇸 **Spanish** | Intermediate (B1) |
 | 🇫🇷 **French** | Intermediate (B1) |
-| 🇮🇹 **Italian** | Intermediate (B1) |
-| 🇵🇹 **Portuguese** | Intermediate (B1) |
-| 🇩🇪 **German** | Intermediate (B1) |
 | 🇯🇵 **Japanese** | Learning (A2) |
+| 🇹🇼 **Mandarin Chinese** | Learning (A2) |
 
 ---
 
