@@ -26,6 +26,8 @@
 
 ### 🤖 Natural Language Processing & Machine Learning (Primary Focus)
 * **Multilingual & Low-Resource NLP**: Researching and building representation models, text processing, and translation systems for low-resource languages.
+* **Computational Social Science & Political NLP**: Analyzing transnational discourse, international digital diplomacy, and media framing (Entman Framing theory) using Transformer architectures (RoBERTa, Hugging Face).
+* **Multi-Source Data Triangulation**: Engineering automated, multi-platform data extraction pipelines (social media, video comments, news feeds) to build robust, unbiased empirical datasets.
 * **End-to-End ML Pipelines**: Designing data ingestion, preprocessing, training, and evaluation workflows with Python, PyTorch & Scikit-Learn.
 * **Model Serving & APIs**: Converting machine learning experiments into production-ready microservices using FastAPI.
 
@@ -38,6 +40,7 @@
 ## 🌿 Fields of Interest
 
 * 💬 **Multilingual & Low-Resource NLP** — Language representation learning and cross-lingual models
+* 🌐 **Computational Social Science & Digital Diplomacy** — International discourse modeling, media framing, and geopolitical sentiment analysis
 * 🤖 **Machine Learning & Deep Learning** — Statistical modeling, predictive analytics, and neural architectures
 * 🛠️ **ML Engineering & Deployment** — Model serving, REST APIs, and software integration
 * 🌌 **Computational Natural Sciences** — Mathematics, Physics, and Astronomy
@@ -50,26 +53,38 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/farhanAkbar91/asean-papua-digital-diplomacy-nlp">asean-papua-digital-diplomacy-nlp</a></h3>
+      <p>Multi-platform Computational Social Science pipeline & NLP data triangulation architecture (X, YouTube, News) analyzing ASEAN-Pacific discourse using Transformer (RoBERTa) & Entman framing.</p>
+      <p><code>Python</code> • <code>Transformers</code> • <code>PyTorch</code> • <code>Web Scraping</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/farhanAkbar91/sign-language-translator">sign-language-translator</a></h3>
       <p>Real-time sign language translation system built with Python, Computer Vision, and Deep Learning models.</p>
       <p><code>Python</code> • <code>OpenCV</code> • <code>Deep Learning</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌌 <a href="https://github.com/farhanAkbar91/sdss-end-to-end">sdss-end-to-end</a></h3>
       <p>End-to-end Machine Learning pipeline for astronomical spectral classification using Sloan Digital Sky Survey (SDSS) datasets.</p>
       <p><code>Python</code> • <code>Jupyter</code> • <code>Scikit-Learn</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🛠️ <a href="https://github.com/farhanAkbar91/reqlint">reqlint</a></h3>
       <p>Lightweight Python dependency and requirements linting tool designed for clean environment management.</p>
       <p><code>Python</code> • <code>CLI</code> • <code>DevTools</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/farhanAkbar91/ambatysm-frontend-vue">ambatysm-vue</a> / <a href="https://github.com/farhanAkbar91/ambatysm-backend">backend</a></h3>
       <p>Full-stack web application demonstrating modern frontend architecture and REST API backend design.</p>
       <p><code>Vue.js</code> • <code>PHP</code> • <code>REST API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛣️ <a href="https://github.com/farhanAkbar91/road-damage-segmentation">road-damage-segmentation</a></h3>
+      <p>Computer vision and deep learning model for semantic segmentation and detection of road surface damage.</p>
+      <p><code>Python</code> • <code>PyTorch</code> • <code>Computer Vision</code></p>
     </td>
   </tr>
 </table>
@@ -83,6 +98,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Transformers-FFA800?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -94,10 +111,22 @@
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
+
+### 🕷️ Web Scraping & Data Mining
+<p>
+  <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
+  <img src="https://img.shields.io/badge/Requests-2C8EBB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/X%2FTwitter_Mining-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Mining" />
+  <img src="https://img.shields.io/badge/YouTube_Data-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Data" />
+  <img src="https://img.shields.io/badge/Reddit_API-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit API" />
+  <img src="https://img.shields.io/badge/News_RSS%2FCrawlers-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Crawlers" />
 </p>
 
 ### 🌐 Web & Backend
