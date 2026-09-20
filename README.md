@@ -116,6 +116,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
@@ -126,7 +127,6 @@
   <img src="https://img.shields.io/badge/Requests-2C8EBB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
   <img src="https://img.shields.io/badge/X%2FTwitter_Mining-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Mining" />
   <img src="https://img.shields.io/badge/YouTube_Data-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Data" />
-  <img src="https://img.shields.io/badge/Reddit_API-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit API" />
   <img src="https://img.shields.io/badge/News_RSS%2FCrawlers-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Crawlers" />
 </p>
 
@@ -174,7 +174,6 @@
 | 🇮🇩 **Indonesian** | Native Speaker |
 | 🇬🇧 **English** | Advanced (C1) |
 | 🇪🇸 **Spanish** | Intermediate (B1) |
-| 🇫🇷 **French** | Intermediate (B1) |
 | 🇯🇵 **Japanese** | Learning (A2) |
 | 🇹🇼 **Mandarin Chinese** | Learning (A2) |
 
