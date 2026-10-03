@@ -59,8 +59,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/farhanAkbar91/sign-language-translator">sign-language-translator</a></h3>
-      <p>Real-time sign language translation system built with Python, Computer Vision, and Deep Learning models.</p>
-      <p><code>Python</code> • <code>OpenCV</code> • <code>PyTorch</code> • <code>Deep Learning</code></p>
+      <p>Real-time BISINDO sign language translation system using MediaPipe Holistic for landmark extraction and LSTM neural networks for sequence prediction.</p>
+      <p><code>Python</code> • <code>MediaPipe</code> • <code>OpenCV</code> • <code>TensorFlow / Keras</code> • <code>LSTM</code></p>
     </td>
   </tr>
   <tr>
@@ -103,6 +103,7 @@
   <img src="https://img.shields.io/badge/Transformers-FFA800?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0075FF?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
