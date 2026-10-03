@@ -59,7 +59,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/farhanAkbar91/sign-language-translator">sign-language-translator</a></h3>
-      <p>Real-time BISINDO sign language translation system using MediaPipe Holistic for landmark extraction and LSTM neural networks for sequence prediction.</p>
+      <p>Real-time continuous sign language translation pipeline leveraging MediaPipe Holistic landmark extraction and LSTM neural networks, benchmarked across gesture sequences (ASL & BISINDO).</p>
       <p><code>Python</code> • <code>MediaPipe</code> • <code>OpenCV</code> • <code>TensorFlow / Keras</code> • <code>LSTM</code></p>
     </td>
   </tr>
